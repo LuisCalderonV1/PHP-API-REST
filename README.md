@@ -35,7 +35,7 @@ Registro (verbo POST):
     "password": "1234"
 }
 
-1 . Consulta </br>
+1 . Consulta</br>
 Authorization Bearer Token
 GET http://localhost/blog/index.php/post
 
