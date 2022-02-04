@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/ui": "2.4",
+        "firebase/php-jwt": "^6.0"
+    }
+}
