@@ -35,15 +35,15 @@ Registro (verbo POST):
     "password": "1234"
 }
 
-1 . Consulta
+1 . Consulta </br>
 Authorization Bearer Token
 GET http://localhost/blog/index.php/post
 
-2. Consulta de una publicación
+2. Consulta de una publicación</br>
 Authorization Bearer Token
 GET http://localhost/blog/index.php/post/1
 
-3. Creación
+3. Creación</br>
 Authorization Bearer Token
 POST http://localhost/blog/index.php/post
 {
@@ -52,7 +52,7 @@ POST http://localhost/blog/index.php/post
     "content": "Lorem Ipsum"
 }
 
-4. Actualizar
+4. Actualizar</br>
 Authorization Bearer Token
 PUT http://localhost/blog/index.php/post/1
 {
@@ -61,6 +61,6 @@ PUT http://localhost/blog/index.php/post/1
     "content": "Lorem Ipsum"
 }
 
-5. Eliminar
+5. Eliminar</br>
 Authorization Bearer Token
 DELETE http://localhost/blog/index.php/post/1
