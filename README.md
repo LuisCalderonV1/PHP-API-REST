@@ -7,14 +7,14 @@ Instalación
 4. Configurar la carpeta raíz en app/bootstrap/bootstrap.php por ejemplo:
    DEFINE('BASE_URI', $_SERVER["DOCUMENT_ROOT"] . '/blog/');
 5. Composer install
-6. Accesos:
+6. Accesos:</br>
 
-Rol ID - User	- Password - Rol
-1 - basico@gmail.com	1234	basico
-2 - medio@gmail.com	1234	medio
-3 - medioalto@gmail.com	1234	medio_alto
-4 - altomedio@gmail.com	1234	alto_medio
-5 - alto@gmail.com	1234	alto
+Rol ID - User	- Password - Rol</br>
+1 - basico@gmail.com	1234	basico</br>
+2 - medio@gmail.com	1234	medio</br>
+3 - medioalto@gmail.com	1234	medio_alto</br>
+4 - altomedio@gmail.com	1234	alto_medio</br>
+5 - alto@gmail.com	1234	alto</br>
 
 
 Uso Básico:
